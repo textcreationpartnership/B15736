@@ -1,0 +1,933 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The pack-mans pater noster, or a dialogue betwixt a chapman and a priest. Newlie translated out of Dutch, by SIS.</title>
+            <author>Sempill, James, Sir, 1566-1625.</author>
+         </titleStmt>
+         <extent>Approx. 31KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B15736</idno><idno type="EEBO-CITATION">99839289</idno>
+  <idno type="VID">176892</idno>
+  <idno type="EEBO-PROQUEST">2240864433</idno>
+  <idno type="STC">STC 22185.5</idno>
+  <idno type="STC">ESTC S103537</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99839289e"/>
+            <note>(EEBO-TCP ; phase 2, no. B15736)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176892)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 716:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The pack-mans pater noster, or a dialogue betwixt a chapman and a priest. Newlie translated out of Dutch, by SIS.</title>
+                  <author>Sempill, James, Sir, 1566-1625.</author>
+               </titleStmt>
+               <extent>[20] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Edward Raban, for David Melvill,</publisher>
+                  <pubPlace>Aberdene :</pubPlace>
+                  <date>1624.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In fact by SIS, i.e. Sir James Sempill.</note>
+                  <note>In verse.</note>
+                  <note>Identified as STC 19087 on UMI microfilm reel 716.</note>
+                  <note>Reproduction of the original in the Folger Shakespeare Library.</note>
+                  <note>Running title reads: A conference betwixt a cramer and a priest.</note>
+                  <note>Signatures: A-B⁴ C² .</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="lat">lat</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="ornaments">
+            <pb facs="tcp:176892:1"/>
+            <pb facs="tcp:176892:1"/>
+            <p>
+               <figure>
+                  <figDesc>device or ornament</figDesc>
+                  <p>
+                     <label>1624</label>
+                  </p>
+               </figure>
+            </p>
+            <pb facs="tcp:176892:2"/>
+            <p>
+               <figure>
+                  <figDesc>device or ornament</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:176892:2"/>
+            <p>THE PACK-MANS PATER NOSTER, <hi>OR</hi>
+               <q>
+                  <l>A Dialogue betwixt</l>
+                  <l>A Chapman and a Priest.</l>
+               </q>
+            </p>
+            <p>Newlie translated out of Dutch, by SIS.</p>
+            <figure>
+               <figDesc>printer's device of Edward Raban, featuring the arms of Aberdeen [McKerrow 394]</figDesc>
+               <q>BON ACCORD</q>
+               <p>
+                  <label>E R</label>
+               </p>
+               <head>Insignia Vrbis abredonie</head>
+            </figure>
+            <p>ABERDENE, PRINTED BY EDWARD RABAN, for David Melvill, 1624.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:176892:3"/>
+            <pb facs="tcp:176892:3"/>
+            <head type="illustration">
+               <figure>
+                  <figDesc>decorative header</figDesc>
+                  <p>
+                     <label>E R</label>
+                  </p>
+               </figure>
+            </head>
+            <head>A CONFERENCE Betweene a Pedler and a Priest. OR
+<l>The Packe-mans <hi>Pater Noster,</hi>
+               </l>
+               <l>That hee learn'd in a <hi>Closter:</hi>
+               </l>
+               <l>VVhereof hee sore repented,</l>
+               <l>And prayes it may bee prented.</l>
+               <l>
+                  <hi>Not fitting for the Schooles,</hi>
+               </l>
+               <l>
+                  <hi>Yet Schoole-master of Fooles.</hi>
+               </l>
+            </head>
+            <epigraph>
+               <q>
+                  <l>
+                     <seg rend="decorInit">A</seg> POLLANDS PEDLER went vpon a day,</l>
+                  <l>Vnto his Parish Priest, to learne to pray.</l>
+                  <l>The Priest sayd; Packe-man, thou must hant the Clo<g ref="char:EOLhyphen"/>ster,</l>
+                  <l>To learne the <hi>Ave,</hi> and the <hi>Pater noster.</hi>
+                  </l>
+               </q>
+            </epigraph>
+            <sp>
+               <speaker>Packe-man.</speaker>
+               <lg>
+                  <l>NOW, good Sir Priest, saide hée, what talke is that?</l>
+                  <l>I heare you speake; but <hi>GOD</hi> in Heaven knowes what.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Priest.</speaker>
+               <lg>
+                  <l>It is, sayde hee, that holie <hi>Latine</hi> Letter,</l>
+                  <l>That pleaseth God well, and our Ladie better.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Packe-man.</speaker>
+               <lg>
+                  <l>Alace, Sir <hi>Iohn,</hi> I'll never vnderstand them:</l>
+                  <l>So I must leaue your Prayers, as a fand them.</l>
+               </lg>
+            </sp>
+            <pb facs="tcp:176892:4"/>
+            <sp>
+               <speaker>Priest.</speaker>
+               <lg>
+                  <l>Tush, tush, sayes hee, if thou list for to liere,</l>
+                  <l>Within a month I shall make thee parquiere.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Packe-man.</speaker>
+               <lg>
+                  <l>Parquiere, sayde hée, that will bée but in saying;</l>
+                  <l>In words, not sense; a pratling, not a praying.</l>
+                  <l>Shall I (Sir <hi>Iohn</hi>) a man of perfect age,</l>
+                  <l>Pray lyke an ydle <hi>Parret</hi> in a Cage?</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Priest.</speaker>
+               <lg>
+                  <l>A <hi>Parret</hi> can but prattle for her part,</l>
+                  <l>But toward God hath neither head nor heart.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Packe-man.</speaker>
+               <lg>
+                  <l>And séeing I haue head and heart to pray,</l>
+                  <l>Should not mine heart know what my tongue doth say?</l>
+                  <l>For when my tongue talks, if mine heart miscarie.</l>
+                  <l>Howe quicklie may I marre your <hi>Ave Marie?</hi>
+                  </l>
+                  <l>And I (Sir) having manie things to séeke,</l>
+                  <l>How shall I speede, not knowing what I speake?</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Priest.</speaker>
+               <lg>
+                  <l>Because that GOD all Tongues doth vnderstand,</l>
+                  <l>Yea, knowes thy verie thoughts before the hand.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Packe-man.</speaker>
+               <lg>
+                  <l>Then if I thinke one thing, and speake another,</l>
+                  <l>I will both crabb Christ, and our Ladie His Mother.</l>
+                  <l>For when I pray for making vp my Packe, man,</l>
+                  <l>Your <hi>Ave Marie</hi> is not worth a Placke, man.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Priest.</speaker>
+               <lg>
+                  <l>Thy <hi>Latine</hi> Prayers are but generall heades,</l>
+                  <l>Contayning everie speciall that thou needes:</l>
+                  <l>The <hi>Latine</hi> serues vs for a <hi>Liturgie,</hi>
+                  </l>
+                  <l>As Medciners direct the <hi>Chirurgie.</hi>
+                  </l>
+                  <l>And in this language <hi>Messe</hi> is sayde and sung.</l>
+                  <l>For private thinges pray in thy mother tongue.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Packe-man.</speaker>
+               <lg>
+                  <l>Then must I haue a tongue (Sir <hi>Iohn</hi>) for eyther;</l>
+                  <l>One for the Mother, another for the Father.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Priest.</speaker>
+               <lg>
+                  <l>Thinkst thou the Mother doth not know such small things?</l>
+                  <l>Christ is her Sonne, man, and Hee telles her all things.</l>
+               </lg>
+            </sp>
+            <pb facs="tcp:176892:4"/>
+            <sp>
+               <speaker>Packe-man.</speaker>
+               <lg>
+                  <l>But (good Sir <hi>Iohn</hi>) where learn'd our Ladie her <hi>Latines?</hi>
+                  </l>
+                  <l>For in her dayes were neither <hi>Messe</hi> nor <hi>Matines:</hi>
+                  </l>
+                  <l>Nor yet one Priest that <hi>Latine</hi> then did speake:</l>
+                  <l>For holie words were then all <hi>Hebrew</hi> and <hi>Greeke.</hi>
+                  </l>
+                  <l>Shée never was at <hi>Rome,</hi> nor kist <hi>Popes</hi> féete:</l>
+                  <l>How came shée by the <hi>Messe,</hi> then, would I wit?</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Priest.</speaker>
+               <lg>
+                  <l>Packe-man, if thou belieue the <hi>Legendarie,</hi>
+                  </l>
+                  <l>The <hi>Messe</hi> is elder farre than Christ or <hi>Marie:</hi>
+                  </l>
+                  <l>For all the Patriarks, both more and lesse,</l>
+                  <l>And great <hi>Melchisedec</hi> himselfe sayde <hi>Messe.</hi>
+                  </l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Packe-man.</speaker>
+               <lg>
+                  <l>But (good Sir <hi>Iohn</hi>) spake all these Fathers <hi>Latine?</hi>
+                  </l>
+                  <l>And sayde they <hi>Messe</hi> in Surplices and Satine?</l>
+                  <l>Could they speake <hi>Latine</hi> long yet <hi>Latine</hi> grew?</l>
+                  <l>And without <hi>Latine</hi> no <hi>Messe</hi> can bée true.</l>
+                  <l>And as for <hi>Heretickes</hi> that now translate it.</l>
+                  <l>False <hi>Miscreants;</hi> they shame the <hi>Messe,</hi> and state it.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Priest.</speaker>
+               <lg>
+                  <l>Well (<hi>Packe-man</hi>) fayth thou art too curious;</l>
+                  <l>Thy spur-blinde zeale; fervent, but furious.</l>
+                  <l>I rather teach a whole Coven of <hi>Monkes;</hi>
+                  </l>
+                  <l>Than such a <hi>Packe-man,</hi> with his <hi>Puritane</hi> spunkes.</l>
+                  <l>This thou must know, that cannot bee denyed,</l>
+                  <l>
+                     <hi>Rome</hi> rang over all when Christ was crucifyed:</l>
+                  <l>
+                     <hi>Rome</hi> Ethnicke then: but afterwardes converted,</l>
+                  <l>And grew so honest, and so holie hearted:</l>
+                  <l>That now her Emprour is turn'd in our <hi>Pope,</hi>
+                  </l>
+                  <l>His <hi>Holinesse;</hi> as you haue heard, I hope.</l>
+                  <l>Hee made a law, that all the world should pray,</l>
+                  <l>In <hi>Latine</hi> language to the Lord each day:</l>
+                  <l>Therefore of this thou mayst bee sure and sickar,</l>
+                  <l>The <hi>Pope</hi> of <hi>Rome</hi> is now made Christs full <hi>Vicar.</hi>
+                  </l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Packe-man.</speaker>
+               <lg>
+                  <l>Surelie this purpose puts mée farre abacke,</l>
+                  <l>And hath moe <hi>Poyntes</hi> than <hi>Pinnes</hi> in all my Packe:</l>
+                  <l>What ever power you giue to your <hi>Pope,</hi>
+                  </l>
+                  <l>Hée may not make a man an Ape, I hope.</l>
+                  <pb facs="tcp:176892:5"/>
+                  <l>And if hee bee full <hi>Vicar</hi> to our <hi>LORD,</hi>
+                  </l>
+                  <l>Should not his words and <hi>CHRISTS</hi> keepe one accord?</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Priest.</speaker>
+               <lg>
+                  <l>Doubtlesse they doe: and never are contrarie,</l>
+                  <l>In PATER NOSTER, CREED, nor AVE MARIE.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Packe-man.</speaker>
+               <lg>
+                  <l>But Christs Disciples, when they made their motion</l>
+                  <l>To Christ their Master, how to make devotion,</l>
+                  <l>As I haue done to you, Sir <hi>Iohn,</hi> to day,</l>
+                  <l>I pray you, in what Tongue bade Hee them pray?</l>
+                  <l>Christ did not one word <hi>Latine</hi> to them speake:</l>
+                  <l>Their talke was all in <hi>Syriacke, Hebrew, Greeke.</hi>
+                  </l>
+                  <l>Hee bade all Nations pray after one manner;</l>
+                  <l>But bade not all take <hi>Latine</hi> for their Banner.</l>
+                  <l>Your <hi>Latine</hi> is but one of the Translations:</l>
+                  <l>Why should it then exclude all other Nations?</l>
+               </lg>
+               <lg>
+                  <l>¶ And, on my Soule, Sir <hi>Iohn,</hi> if I but say,</l>
+                  <l>In mine owne Mother-tongue, when I doe pray,</l>
+                  <l>Lord, helpe mee; Lord, forgiue mee all my Sinnes:</l>
+                  <l>Yea, why not, Lord, increase my Packe and Pinnes?</l>
+                  <l>And everie thing where-of I stand in neede:</l>
+                  <l>For this dependes vpon <hi>Our Daylie Bread.</hi>
+                  </l>
+                  <l>I hope in GOD, that Hee shall as soone heare mee,</l>
+                  <l>As all the <hi>Latine</hi> Prayers you can leare mee.</l>
+                  <l>And since some Tongues haue more Antiquitie</l>
+                  <l>Than <hi>Latine,</hi> were it not iniquitie</l>
+                  <l>To force all People to pray lyke the Pope?</l>
+                  <l>No, good Sir <hi>Iohn,</hi> you'll not say that, I hope.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Priest.</speaker>
+               <lg>
+                  <l>But, Packe-man, one poynt would I faine make playne:</l>
+                  <l>Let vs come backe, vnto our Ladie agayne.</l>
+                  <l>And if thou hadst as much capacitie,</l>
+                  <l>As roaving wit, with great audacitie,</l>
+                  <l>The case is cleare, that Virgine <hi>Marie</hi> meeke,</l>
+                  <l>Shee could all Languages perfectlie speake.</l>
+                  <l>Hast thou not heard, man, how the holie Ghost</l>
+                  <l>Came downe lyke cloven tongues at <hi>Pentecost?</hi>
+                  </l>
+                  <pb facs="tcp:176892:5"/>
+                  <l>And fill'd the house where all the twelue were readie:</l>
+                  <l>And one tongue truelie lighted on our Ladie.</l>
+                  <l>And lest thou thinke I talke of ydle <hi>Themes,</hi>
+                  </l>
+                  <l>Consult the reverend <hi>Iesuites</hi> of <note n="*" place="margin">Vpon Act. 2. 4.</note>
+                     <hi>Rhemes.</hi>
+                  </l>
+                  <l>And this I pray thee, Packe-man, earnestlie note.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Packe-man.</speaker>
+               <lg>
+                  <l>In fayth, Sir <hi>Iohn,</hi> it is not worth a Groate.</l>
+                  <l>Will I belieue't, thinke yee, because they say it?</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Priest.</speaker>
+               <lg>
+                  <l>No: but they proue't, as no man can denay it.</l>
+                  <l>Sayth not the Text, that when the Lord ascended,</l>
+                  <l>
+                     <note n="*" place="margin">Act. 1. 4</note> Vnto the twelue Hee earnestlie recommended,</l>
+                  <l>That from <hi>Ierusalem</hi> they should not goe,</l>
+                  <l>Vntill the Comforter should come? And so,</l>
+                  <l>Into an vpper roome they went together,</l>
+                  <l>Where <note n="*" place="margin">Act. 1. 12. 13. 14.</note>
+                     <hi>Marie</hi> still was one, yee must consider.</l>
+                  <l>With manie moe, in number full <note n="*" place="margin">Vers. 15.</note> sixe score,</l>
+                  <l>That with the twelue did daylie GOD adore.</l>
+                  <l>And then hee sayth, When <note n="*" place="margin">Act. 2. 1</note>
+                     <hi>Pentecost</hi> was come,</l>
+                  <l>They were together in one place, all, and some.</l>
+                  <l>And <note n="*" place="margin">Vers. 4.</note> (<hi>All</hi>) were filled with the Holie Ghost.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Packe-man.</speaker>
+               <lg>
+                  <l>O, good Sir <hi>Iohn,</hi> yee count without your Host.</l>
+                  <l>Now see I well, your <hi>Iesuiticall</hi> tongues</l>
+                  <l>Haue cloven the Text, even to the verie lungues.</l>
+                  <l>That <note n="*" place="margin">Act. 1. 15</note> (<hi>All</hi>) which first was spoken of sixe score,</l>
+                  <l>
+                     <note n="*" place="margin">Act. <gap reason="illegible" resp="#oxf" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. <gap reason="illegible" resp="#oxf" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</note> Is heere meant of the onelie twelue, no more.</l>
+                  <l>Nor <hi>Marie</hi> is not named now, as then.</l>
+                  <l>What neede wee then belieue it, Holie man?</l>
+                  <l>On with your Spectacles (Sir <hi>Iohn</hi>) and reade,</l>
+                  <l>And credite this, as a point of your <hi>Creede.</hi>
+                  </l>
+                  <l>The Holie Ghost could fall vpon no more,</l>
+                  <l>Than hee was promised vnto before.</l>
+                  <l>Doubtlesse hee tooke not a blinde-folded flight,</l>
+                  <l>Lyke syled Larkes, not knowing where to light.</l>
+                  <l>Now, hee was promisde <note n="*" place="margin">Act. <gap reason="illegible" resp="#oxf" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. <gap reason="illegible" resp="#oxf" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</note> onelie to the twelue.</l>
+                  <l>Looke on the Text (Sir <hi>Iohn</hi>) and judge your selue.</l>
+                  <l>Speake man, and bee not silent: I am sorie,</l>
+                  <l>To see you ignorant of such a Storie.</l>
+               </lg>
+               <pb facs="tcp:176892:6"/>
+               <lg>
+                  <l>¶ And as the stories in themselues are divers,</l>
+                  <l>Flowing and falling into sundrie Rivers:</l>
+                  <l>In divers Chapters <note n="*" place="margin">To wit, the first and se<g ref="char:EOLhyphen"/>cond Chap<g ref="char:EOLhyphen"/>ters.</note> so they stand divided,</l>
+                  <l>So that the case may clearelie bée decided.</l>
+                  <l>For when those sixe score were at first conveaned,</l>
+                  <l>There was another mysterie then meaned:</l>
+                  <l>To wit, <hi>Matthias</hi> frée election.</l>
+                  <l>And so Sainct <hi>Peter</hi> gaue direction,</l>
+                  <l>That (<hi>All</hi>) the sixe score there should beare record</l>
+                  <l>Of their procéedings then before the Lord.</l>
+                  <l>The choosing of a Pastor was in hand:</l>
+                  <l>Which without the Churches knowledge cannot stand.</l>
+                  <l>And so <hi>Matthias</hi> through the power of Heaven,</l>
+                  <l>By <note n="*" place="margin">Act. 1. 26.</note> lot was helde as one of the eleven.</l>
+                  <l>Then sayes the Text: <note n="*" place="margin">And 2. 1.</note> All these were still together.</l>
+                  <l>What (<hi>All</hi>) these were, let anie man consider.</l>
+                  <l>The twelue, say I, in the last verse before:</l>
+                  <l>And not make leape-yeare of eleven verse more,</l>
+                  <l>To draw (<hi>All</hi>) backe to those hundreth and twentie.</l>
+                  <l>Indéede this way wee should haue tongues in plentie.</l>
+                  <l>And as they differ by twelue verse or lynes,</l>
+                  <l>So are they ten dayes different in tymes.</l>
+                  <l>The first, vpon the day that Christ ascended,</l>
+                  <l>The other, when the Holie Ghost descended.</l>
+                  <l>Such glazen Arguments will byde none Hammer:</l>
+                  <l>For they are but ill <hi>Logicke,</hi> and worse <hi>Grammer.</hi>
+                  </l>
+                  <l>So onelie twelue reciev'd the Holy Ghost.</l>
+                  <l>And so our Ladie all her tongues hath lost.</l>
+               </lg>
+               <lg>
+                  <l>¶ Now for the Holie Ghost, Sir <hi>Iohn,</hi> yée know,</l>
+                  <l>His comming downe is tyed to no law:</l>
+                  <l>Some tymes invisible, and some tymes séene.</l>
+                  <l>As diverslie at divers tymes hath béene.</l>
+                  <l>His comming néedes but to bée séene of few.</l>
+                  <l>His works may serue for witnesses anew.</l>
+                  <l>And so Saint <hi>Paul</hi> himselfe this gift hée fand,</l>
+                  <l>But privatelie by <hi>Ananias</hi> hand.</l>
+               </lg>
+               <pb facs="tcp:176892:6"/>
+               <lg>
+                  <l>¶ And so (Sir <hi>Iohn</hi>) to show you all my Packe,</l>
+                  <l>And let you see my breast as well as backe:</l>
+                  <l>I wonder yee consider not the Ende,</l>
+                  <l>Why God the Holie Ghost, in Tongues did sende.</l>
+                  <l>Know yée not, Tongues were onelie given for teaching?</l>
+                  <l>Know yée not, Women are forbidden preaching?</l>
+                  <l>Yea, scarce at home haue libertie of spéech;</l>
+                  <l>But aske their husbands, and they for to teach.</l>
+                  <l>Since Women then in Gods word may not walke,</l>
+                  <l>What should they doe with Tongues that may not talke?</l>
+               </lg>
+               <lg>
+                  <l>¶ And then (Sir <hi>Iohn</hi>) what worship doe yée win</l>
+                  <l>Vnto our Ladie, when yée bring her in,</l>
+                  <l>Iacke-fellow-lyke with other whole sixe score,</l>
+                  <l>Who got the Holie Ghost, and shée no more?</l>
+                  <l>And where the <hi>Pope</hi> hath made her <hi>Queene of Heaven,</hi>
+                  </l>
+                  <l>Yée make her but lyke one of the eleven.</l>
+                  <l>Surelie (Sir <hi>Iohn</hi>) this is an ill fav'rd fitching;</l>
+                  <l>Yee thrust her from the <hi>Hall</hi> downe to the <hi>Kitching.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>¶ And this is also one of the rare <hi>Themes,</hi>
+                  </l>
+                  <l>Helde by your reverend <hi>Iesuites</hi> of <hi>Rhemes:</hi>
+                  </l>
+                  <l>
+                     <note n="*" place="margin">On 1. Cor. 14.</note> That <hi>Latine</hi> came not with the Holie Ghost,</l>
+                  <l>When the cloven tongues came at the <hi>Pentecost.</hi>
+                  </l>
+                  <l>Now, if it came not by the Holie Ghost,</l>
+                  <l>How got it all this holinesse in haste,</l>
+                  <l>That in it onelie, and none other Tongue,</l>
+                  <l>Both <hi>Messe</hi> and <hi>Matines</hi> should bee sayde and sung?</l>
+                  <l>Your last refuge will bee vnto the <hi>Pope;</hi>
+                  </l>
+                  <l>So knit vp all together in one Rope.</l>
+               </lg>
+               <lg>
+                  <l>¶ Then, good Sir <hi>Iohn,</hi> consider but a litle,</l>
+                  <l>How yee giue vnto <hi>Marie</hi> manie a title:</l>
+                  <l>Whereof yee haue no warrant in the Word;</l>
+                  <l>And yet pursue vs both with fire and sword,</l>
+                  <l>As <hi>Heretickes,</hi> for not doing as yee-doe:</l>
+                  <l>Yet what the Word bids, and no more, that wee-doe.</l>
+                  <l>Thinke yee that anie man can bee so mad,</l>
+                  <l>As to holde Christ, his Saviour; and so bad.</l>
+                  <pb facs="tcp:176892:7"/>
+                  <l>As to holde <hi>Marie</hi> for his Saviours Mother,</l>
+                  <l>And not to loue that woman boue all other?</l>
+                  <l>Wee loue her then, tho wee belieue not in her;</l>
+                  <l>Nor by Will-worship thinke wee for to win her.</l>
+                  <l>Wee holde her blessed, for Christs Flesh conceiving,</l>
+                  <l>But farre more blessed, for Christs Fayth receiving:</l>
+                  <l>Shee is His Mother; and the Church, His VVyfe;</l>
+                  <l>VVhich was to Him much dearer than His Lyfe.</l>
+                  <l>So if the one could fall out with the other,</l>
+                  <l>Hee would respect His VVyfe, more than His Mother.</l>
+                  <l>For this is everie Spouses carriage;</l>
+                  <l>But moste, in this Spirituall Marriage.</l>
+                  <l>And as shee's Mother of His humane lyfe,</l>
+                  <l>Shee's but a Daughter of His Heavenlie Wyfe.</l>
+                  <l>And by this Mother, member of Christs Bodie.</l>
+                  <l>Who thinkes not so, is but a verie Noddie.</l>
+                  <l>All this (Sir <hi>Iohn</hi>) I doe but briefelie say;</l>
+                  <l>To let you see, that yee play vs foule play.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Priest.</speaker>
+               <lg>
+                  <l>Well Packe-man, tho thou beare about that Trunke,</l>
+                  <l>I feare thou bee but some forlopen Monke,</l>
+                  <l>Of <hi>Luthers</hi> lore, or crooked <hi>Calvines</hi> Crew;</l>
+                  <l>And sent abroade, such businesse to brew:</l>
+                  <l>Transformed in the person of some Pedler.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Packe-man.</speaker>
+               <lg>
+                  <l>No, good Sir <hi>Iohn,</hi> in fayth I am no medler,</l>
+                  <l>Nor haue I mynde nor meanes so high to mount:</l>
+                  <l>I can but reade a little, and lay a Count.</l>
+                  <l>And seeke my meate through manie an vncouth <hi>Maison:</hi>
+                  </l>
+                  <l>I know not what yee call your <hi>Kyrie-laison.</hi>
+                  </l>
+                  <l>So helpe mee God, Sir <hi>Iohn,</hi> I know no better,</l>
+                  <l>Nor in your <hi>Latine</hi> can I reade one letter.</l>
+                  <l>I but belieue in God: and sometyme say,</l>
+                  <l>Christ helpe mee, when I wander out the way.</l>
+                  <l>And so, what ever I haue, what ever I want,</l>
+                  <l>I neither pray to Hee, nor to Shee Sainct.</l>
+               </lg>
+               <lg>
+                  <l>¶ And as for Tongues, I haue but one, no more:</l>
+                  <l>And wit yee well, albeit I had ten score,</l>
+                  <pb facs="tcp:176892:7"/>
+                  <l>I would vse all conforme to <hi>Paules</hi> commanding:</l>
+                  <l>Pray with my tongue, pray with mine vnderstanding.</l>
+                  <l>Thinke ye those twelue, when they receiv'd these tongues,</l>
+                  <l>Did talke like Parrets, or like barrell bungues:</l>
+                  <l>Yeelding a sound, not knowing what they sayde?</l>
+                  <l>Ydle in preaching, ydler when they prayde.</l>
+                  <l>No, each of them knew well what hee did say:</l>
+                  <l>And why not wee, Sir <hi>Iohn,</hi> as well as they?</l>
+                  <l>For since all men haue one tongue at command,</l>
+                  <l>Should wee seeke tongues wee doe not vnderstand?</l>
+                  <l>Alas, Sir <hi>Iohn,</hi> had I beene trayn'd at Schoole,</l>
+                  <l>As I am but a simple ignorant foole,</l>
+                  <l>An hundreth Questions more I might haue moved,</l>
+                  <l>But heere I cease, fearing to bee reproved:</l>
+                  <l>For these few doubts I learn'd in divers places,</l>
+                  <l>Thinking, yee Clergie-men would cleare all cases.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Priest.</speaker>
+               <lg>
+                  <l>Now, Packe-man, I confesse thou puts mee to it:</l>
+                  <l>But one thing I will tell thee, if thou'lt doe it:</l>
+                  <l>Thou shalt come to our holie <hi>Pryor,</hi> Packe-man,</l>
+                  <l>And hee perhaps will buy all on thy backe, man:</l>
+                  <l>And teach thee better how to pray than anie,</l>
+                  <l>For such an holie man there are not manie.</l>
+                  <l>Bee here to morne, just betweene sixe and seaven,</l>
+                  <l>And thou wilt finde thy selfe halfe way to Heaven.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Packe-man.</speaker>
+               <lg>
+                  <l>Content, said hee, but there is some-thing more,</l>
+                  <l>I must haue your opinion in before:</l>
+                  <l>In-case the holie <hi>Pryor</hi> haue no leasure,</l>
+                  <l>To speake of everie purpose at our pleasure,</l>
+                  <l>There was but one tongue at the birth of <hi>Abel,</hi>
+                  </l>
+                  <l>And manie at the building vp of <hi>Babel:</hi>
+                  </l>
+                  <l>A wicked worke, which God would haue consounded.</l>
+                  <l>But when Christ came, all tongues againe resounded,</l>
+                  <l>To build His Church, by His Apostles teaching.</l>
+                  <l>Why not in praying, as well as in preaching?</l>
+                  <l>Since praying is the true and full perfection,</l>
+                  <l>Of holie service: Saving your correction.</l>
+                  <pb facs="tcp:176892:8"/>
+                  <l>So if our Lord to mine owne tongue bee readie,</l>
+                  <l>What neede I then with <hi>Latine</hi> trouble our Ladie?</l>
+                  <l>Or if both in my prayers must bee in,</l>
+                  <l>I pray thee tell mee at whom to begin?</l>
+                  <l>And to pray joyntlie to them both as one,</l>
+                  <l>Your <hi>Latine</hi> prayers then are clearelie gone:</l>
+                  <l>For <hi>PATER NOSTER</hi> never will accord</l>
+                  <l>With her: nor <hi>AVE MARIE</hi> with our <hi>LORD.</hi>
+                  </l>
+                  <l>If I get him, what neede I seeke another?</l>
+                  <l>Or dare hee doe nothing without his Mother?</l>
+                  <l>And this (Sir <hi>Iohn</hi>) was once in question,</l>
+                  <l>Disputed long with deepe digestion;</l>
+                  <l>Whether the <hi>Pater Noster</hi> should bee sayde,</l>
+                  <l>To God, or to our Ladie, when they prayde?</l>
+                  <l>When Master <hi>Mare</hi> of learn'd diversitie;</l>
+                  <l>Was Rector of our <note n="*" place="margin">Of Sainct Andrewes.</note>
+                     <hi>Vniversitie,</hi>
+                  </l>
+                  <l>They sate so long, they cooled all their Kaile,</l>
+                  <l>Vntill the Master Cooke heard of the Tale:</l>
+                  <l>Who lyke a mad man ranne amongst the Clergie,</l>
+                  <l>Crying with manie a <hi>Domine me asperge:</hi>
+                  </l>
+                  <l>To giue the <hi>Pater Noster</hi> to the Father,</l>
+                  <l>And to our Ladie giue the <hi>Avies</hi> rather.</l>
+                  <l>And lyke a <hi>Welsh</hi>-man swore by great Sainct <hi>Davies,</hi>
+                  </l>
+                  <l>Shee might content her well with <hi>Creedes</hi> and <hi>Avies.</hi>
+                  </l>
+                  <l>And so the Clergie fearing more confusion,</l>
+                  <l>Were all contented with the Cookes Conclusion.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Priest.</speaker>
+               <lg>
+                  <l>Packe-man, this Tale is coyned of the new.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Packe-man.</speaker>
+               <lg>
+                  <l>Sir <hi>Iohn,</hi> I'll quite the Packe, if 't bee not true.</l>
+               </lg>
+               <lg>
+                  <l>¶ Againe, Sir <hi>Iohn,</hi> yee learned Monks may reade,</l>
+                  <l>How Christ Himselfe taught vs of His owne head:</l>
+                  <l>That everie soule that was with sinne opprest,</l>
+                  <l>Should come to Him, and Hee would giue them rest.</l>
+                  <l>Come all to Mee (sayth Hee) not to another.</l>
+                  <l>Come all to Mee (sayth Hee) not to My Mother.</l>
+                  <l>And if I doe all as the Lord commanded,</l>
+                  <l>I hope her Ladiship will not withstand it.</l>
+                  <pb facs="tcp:176892:8"/>
+                  <l>And so, Sir <hi>Iohn,</hi> if I should speake in <hi>Latine,</hi>
+                  </l>
+                  <l>Vnto the Lord at <hi>Even-song,</hi> and at <hi>Matine,</hi>
+                  </l>
+                  <l>And never vnderstand what I were saying,</l>
+                  <l>Thinke yee the Lord would take this for true praying?</l>
+                  <l>No, that yée cannot: for yée may consider,</l>
+                  <l>My tongue and heart should pray to God together.</l>
+               </lg>
+               <lg>
+                  <l>¶ And héerevpon yée shall heare what befell,</l>
+                  <l>To certaine Clerkes, that <hi>Latine</hi> well could spell:</l>
+                  <l>With whome by chance I lodged at an Inne;</l>
+                  <l>Where an olde Wyfe vpon a Rocke did spinne.</l>
+                  <l>And towardes evening shee fell to, and prayde:</l>
+                  <l>But neither they, nor I, knew what shee sayde.</l>
+                  <l>One sayde, the Carling counterfets the Canting.</l>
+                  <l>Another sayd, It's but the Matrons manting.</l>
+                  <l>Some call'd it <hi>Gibbers,</hi> others call'd it <hi>Clavers.</hi>
+                  </l>
+                  <l>And still the Carling speakes, and spinnes, and slavers.</l>
+                  <l>Now, good Sir <hi>Iohn;</hi> what thinke yee of this hussie?</l>
+                  <l>Where was her heart, when her hands were so busie?</l>
+                  <l>In ende, one saide, Dame, wot yee what yee say?</l>
+                  <l>No, not, sayeth shee, but well I wot I pray.</l>
+                  <l>Yee pray, sayd hee, and wots not what, I grant:</l>
+                  <l>Alace, how can yee bee so ignorant?</l>
+                  <l>The Matron musing little at the motion,</l>
+                  <l>Sayde, Ignorance is Mother of Devotion</l>
+                  <l>Then Dame, sayd hee, if Ignorance bee the Mother,</l>
+                  <l>Darkenesse must bee the Daughter, and none other.</l>
+                  <l>Prayde yee, sayde hee, when all the time yee span?</l>
+                  <l>What recke of that? sayth shee, God's a good Man,</l>
+                  <l>And vnderstands all that I say in <hi>Latine:</hi>
+                  </l>
+                  <l>And this I doe at <hi>Even-song</hi> and at <hi>Matine.</hi>
+                  </l>
+                  <l>Alace, Sir <hi>Iohn,</hi> was not this Wyfe abused,</l>
+                  <l>Whose soule and senses all were so confused?</l>
+                  <l>You know these vnknowne tongues can profite no man:</l>
+                  <l>And one tongue is enough for anie VVoman.</l>
+                  <l>But when one prayes in true sinceritie,</l>
+                  <l>As God commandes, in Sprite and Veritie;</l>
+                  <l>The heart sends vp the Tongue as Messenger,</l>
+                  <l>Vnto the Lord a pleasant Passenger.</l>
+               </lg>
+            </sp>
+            <pb facs="tcp:176892:9"/>
+            <sp>
+               <speaker>Priest.</speaker>
+               <lg>
+                  <l>But, Packe-man, heere's a prettie little Booke,</l>
+                  <l>Where-in if thou wilt listen for to looke;</l>
+                  <l>Set out by a true Catholicke Divine,</l>
+                  <l>And out of doubt will settle thine ingine.</l>
+                  <l>Fayth, reade it, Packe-man, for it is but little.</l>
+                  <l>
+                     <note n="*" place="margin">Printed 1623.</note>
+                     <hi>The Gadge of the new Gospel,</hi> is its Title.</l>
+                  <l>Hee clearelie prooues, by <note n="*" place="margin">Luke, 1. 9. 10.</note>
+                     <hi>Zacharies</hi> exemple,</l>
+                  <l>When hee did sacrifice (<hi>Within</hi>) the Temple,</l>
+                  <l>And all the people stoode and prayde (<hi>Without</hi>)</l>
+                  <l>They knew not then what tongue hee spake, no doubt.</l>
+                  <l>
+                     <hi>Ergo,</hi> the <hi>Messe</hi> may both bee sayde and sung,</l>
+                  <l>In other language than in Mother-tongue.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Packe-man.</speaker>
+               <lg>
+                  <l>Sir <hi>Iohn,</hi> I see your holie Catholicke,</l>
+                  <l>Vpon the Trueth hath put a prettie tricke.</l>
+                  <l>
+                     <note place="margin">Of A<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                     </note> Haue yee not heard this Proverbe oft tymes sounded,</l>
+                  <l>
+                     <hi>Homo qui male audit, male rotundit?</hi>
+                  </l>
+                  <l>So if the people heard not what hee sayde,</l>
+                  <l>How could they know in what language hee prayde?</l>
+                  <l>Since vnderstanding commeth by the eare,</l>
+                  <l>Hee cannot vnderstand that doth not heare.</l>
+                  <l>Or how prooues this, that <hi>Zacharie</hi> the Priest,</l>
+                  <l>Spake <hi>Latine,</hi> then, the language of the Beast?</l>
+                  <l>Were anie <hi>Liturgies</hi> vnder the Law,</l>
+                  <l>But in that tongue that all the <hi>Iewes</hi> did know?</l>
+                  <l>What ever hee spake, himselfe sure vnderstood it:</l>
+                  <l>And so, your Catholicke hath ill concluded:</l>
+                  <l>Because a learned Priest may pray in <hi>Latine,</hi>
+                  </l>
+                  <l>And mumble over his <hi>Even-song, Messe,</hi> and <hi>Matine.</hi>
+                  </l>
+                  <l>
+                     <hi>Ergo,</hi> a Packe-man to the Lord may pray,</l>
+                  <l>And never know a syllabe hee doth say.</l>
+                  <l>For when yee put mee to my <hi>Pater Noster,</hi>
+                  </l>
+                  <l>I seeke an Egg, and yee giue mee an Oster.</l>
+                  <l>And so, Sir <hi>Iohn,</hi> I haue given you a Wadge,</l>
+                  <l>That's good enough for your <hi>Now Gospels Gadge.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>¶ Last: since wee say that God is good to speake to,</l>
+                  <l>Who will both heare our Text, and heare our eeke to:</l>
+                  <pb facs="tcp:176892:9"/>
+                  <l>What if Hee answere mee in <hi>Latine</hi> tongue;</l>
+                  <l>Where-in I pray, and where-in <hi>Messe</hi> is sung?</l>
+                  <l>I must say, Lord, I wot not what Thou sayest;</l>
+                  <l>And Hee'll say, Foole, thou wo<gap reason="illegible" resp="#oxf" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>st not what thou prayest.</l>
+                  <l>Even, Lord, say I, as good Sir <hi>Iohn</hi> did teach mee.</l>
+                  <l>Sir <hi>Iohn,</hi> sayth Hee, a Priest vnmeete to preach Mee:</l>
+                  <l>Or in your meshant mouthes once for to name Mee;</l>
+                  <l>with different tongues &amp; hearts. Such <hi>Iocke</hi> such <note n="*" place="margin">So was the Packe-man named.</note>
+                     <hi>Iamie.</hi>
+                  </l>
+                  <l>For tho I know moe tongues than yee can tell,</l>
+                  <l>False Knaues, should yee not vnderstand your sell?</l>
+                  <l>Gaue I you not a tongue as well as heart,</l>
+                  <l>That both to Mee should play an afolde part?</l>
+                  <l>But lyke two double Devils yee haue dissembled.</l>
+                  <l>At this Sir <hi>Iohn</hi> hee quaked, and hee trembled,</l>
+                  <l>And sayde, Good Packe-man, thou art so quicke witted,</l>
+                  <l>Vnto the <hi>Pryor</hi> all must bee remitted.</l>
+               </lg>
+               <lg>
+                  <l>¶ And so the Packe-man past vnto his Lodging,</l>
+                  <l>Having with-in his heart great griefe and grudging.</l>
+                  <l>Some-tymes hee doubted, if the Monkes were men,</l>
+                  <l>Or Monsters: for his lyfe hee could not ken.</l>
+                  <l>Hee sayde, Sir <hi>Iohn</hi> was a faire fat fed Oxe.</l>
+                  <l>Some-tyme hee thought hee looked lyke <hi>Iohn Knoxe.</hi>
+                  </l>
+                  <l>But <hi>Knoxe</hi> was better verst into the <hi>Byble;</hi>
+                  </l>
+                  <l>A studie that Sir <hi>Iohn</hi> helde verie ydle.</l>
+                  <l>They diue not deepe into <hi>Divinitie,</hi>
+                  </l>
+                  <l>And trouble them little with the <hi>Trinitie:</hi>
+                  </l>
+                  <l>And are more learned in the <hi>Legendarie,</hi>
+                  </l>
+                  <l>In lyues of <hi>Saincts,</hi> and of the Ladie <hi>Marie.</hi>
+                  </l>
+                  <l>The onelie Idole they embrace and kisse a,</l>
+                  <l>Is to proue servants vnto Mistresse <hi>Missa.</hi>
+                  </l>
+                  <l>With such conceites the Packe-man past the night,</l>
+                  <l>With little sleepe, vntill it was day light.</l>
+               </lg>
+               <lg>
+                  <l>¶ And by the peepe of day hee earelie rose,</l>
+                  <l>And trimd him fynelie in his holie dayes Hose:</l>
+                  <l>And to Sir <hi>Iohns</hi> owne Chamber straight hee went;</l>
+                  <l>Who was attending. So with one assent,</l>
+                  <pb facs="tcp:176892:10"/>
+                  <l>They hyed them to the <hi>Pryor</hi> both in haste;</l>
+                  <l>To whom Sir <hi>Iohn</hi> began to giue a taste,</l>
+                  <l>Of all the Questions that had past amang them.</l>
+                  <l>Hee call'd them <hi>Heretickes,</hi> both, and vowd to hang them.</l>
+                  <l>With that the Packe-man hurled throw the Closter,</l>
+                  <l>And there hee met with an ill favourd Foster:</l>
+                  <l>Who quickelie twind him, and all on his backe:</l>
+                  <l>And then hee learnd to pray, <hi>Shame fall the packe:</hi>
+                  </l>
+                  <l>For if they haue not fred mee of my sinne,</l>
+                  <l>They sende mee lighter out, than I came in.</l>
+                  <l>And still hee cryde, Shame fall both Monks and Frayers,</l>
+                  <l>For I haue lost my Packe, and learnd no Prayers.</l>
+                  <l>So farewell <hi>Ave, Creed,</hi> and <hi>Pater Noster:</hi>
+                  </l>
+                  <l>I'll pray'n my Mother-tongue, and quyte the <hi>Closter.</hi>
+                  </l>
+               </lg>
+            </sp>
+            <trailer>FINIS,</trailer>
+            <closer>
+               <signed>QVOD SIS.</signed>
+            </closer>
+            <trailer type="illustration">
+               <figure>
+                  <figDesc>printer's device of Edward Raban [not in McKerrow]</figDesc>
+                  <p>
+                     <label>E R</label>
+                  </p>
+               </figure>
+            </trailer>
+         </div>
+      </body>
+      <back>
+         <div type="ornaments">
+            <pb facs="tcp:176892:10"/>
+            <p>
+               <figure>
+                  <figDesc>device or ornament</figDesc>
+               </figure>
+            </p>
+            <pb facs="tcp:176892:11"/>
+            <p>
+               <figure>
+                  <figDesc>device or ornament</figDesc>
+               </figure>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
